@@ -1,6 +1,7 @@
 # Predicting Credit Card Default
 
 CT4101 Machine Learning portfolio project. Diarmuid O'Shea, 23465914.
+Repository: https://github.com/Diarmoa/ct4101-credit-default
 
 ## Question
 
@@ -18,7 +19,7 @@ Save it as data/UCI_Credit_Card.csv.
 ## Folders
 
 - data/ : the dataset
-- notebooks/01_data_audit_and_baseline.ipynb : Milestone 2 work (audit, cleaning, split, preprocessing, baselines)
+- notebooks/01_data_audit_and_baseline.ipynb : Milestone 2 and 3 work (audit, cleaning, split, preprocessing, baselines, model comparison)
 - requirements.txt : packages and versions
 - ASSISTANCE.md : assistance declaration
 
